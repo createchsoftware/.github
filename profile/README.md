@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/createchsoftware"><img src="https://avatars.githubusercontent.com/u/159196996" width="250px"></a>
 <h1>CREATECH</h1>
-<i>Creando experencias, generando soluciones.</i>
+<i>Creando experiencias, generando soluciones.</i>
 <hr>
 <h3><a href="https://github.com/createchsoftware/armony">➡️ Visita el proyecto Armony ⬅️</a></h3>
 </div>
